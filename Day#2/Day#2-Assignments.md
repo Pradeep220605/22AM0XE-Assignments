@@ -26,12 +26,14 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
-> Add your answer here!
+> Add your answer here!![image](https://github.com/user-attachments/assets/3c5f51ca-ed12-4d9e-bfef-18f6d0e8f099)
+
 
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!
+> Add your answer here!![image](https://github.com/user-attachments/assets/9a4b9999-0add-4453-bf6e-881f71bd5384)
+
 
 ***
 
