@@ -27,7 +27,8 @@
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
 > Add your answer here!
 > - Completion Badge
-> ![image](https://github.com/user-attachments/assets/c463eab6-8700-407a-9530-1fb9552c5976)
+> ![image](https://github.com/user-attachments/assets/320b742b-1dd4-4dde-850e-1ba76b3b9fe6)
+
 
 
 ***
