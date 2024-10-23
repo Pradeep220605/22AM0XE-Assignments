@@ -65,7 +65,8 @@
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> ![image](https://github.com/user-attachments/assets/011d9d38-1463-45b1-939f-bb22c9d053cf)
+>![image](https://github.com/user-attachments/assets/205d0adb-b841-491d-b70e-ab7368dfbf8c)
+
 
 
 ***
