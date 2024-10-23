@@ -6,13 +6,12 @@
 | Status         | Questions     | 
 |----------------|---------------|
 | <ul><li>- [x] </li></ul> | [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo |
-| <ul><li>- [ ] </li></ul> | Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki. |
-| <ul><li>- [ ] </li></ul> | [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc) |
-| <ul><li>- [ ] </li></ul> | [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser |
-| <ul><li>- [ ] </li></ul> | [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser |
-| <ul><li>- [ ] </li></ul> | [Docker] Pull one of the participant’s docker images and verify whether the app is running or not  |
-| <ul><li>- [ ] </li></ul> | Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number  |
+| <ul><li>- [ ] </li></ul> | Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots |
+| <ul><li>- [ ] </li></ul> | Provide a basic example of using Google Colab by following the given steps  |
+| <ul><li>- [ ] </li></ul> | Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details?  |
+| <ul><li>- [ ] </li></ul> | Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments  |
 | <ul><li>- [ ] </li></ul> | Create a LinkedIn account with personal mail ID  |
+
 
 ***
 
@@ -25,48 +24,46 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
-> Add your answer here!
-> - Completion Badge
->![image](https://github.com/user-attachments/assets/fb527d3d-1a25-4f25-a305-ea2c7bfe3110)
-
+> - Completion Badge - ![image](https://github.com/user-attachments/assets/f400c6c0-b350-4d56-bbea-e899226f3036)
+> - Completion Screenshot - ![image](https://github.com/user-attachments/assets/874f1c3a-24ee-4c52-8d8d-b91ad94dd3be)
 
 
 ***
 
-#### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
-> Add your answer here!
+#### #2 Deploy the image `pranesh5264/chatbot-image:v1` (port: 7212) in k8s and share the screenshots
+>![image](https://github.com/user-attachments/assets/72a8f8aa-4008-432f-9e7a-2d3706e19d8a)
+>![image](https://github.com/user-attachments/assets/d50ff0f1-a2fa-4983-82bf-ab7cbd5403c0)
+
 
 ***
 
-#### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
+#### #3 Provide a basic example of using Google Colab by following the given steps
+> - Link - https://colab.research.google.com/drive/1J7bOH5Zz3y4-APoMBNvWaRMzh6DlctGI?usp=sharing
+> - Create a new Google Colab notebook - ![image](https://github.com/user-attachments/assets/7bdf6370-904e-421d-b8eb-86cef904d9c0)
+> - Write Python code to print "Hello, World!" in the notebook - ![image](https://github.com/user-attachments/assets/e0dd815e-275a-4671-b9b9-a82f2a9c5c17) 
+> - Import the NumPy library and create a 2x2 matrix, then print it. - ![image](https://github.com/user-attachments/assets/fac01a8f-e899-4aae-8179-3ed40a7d5b9d)
+> - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
+> - ![image](https://github.com/user-attachments/assets/0aaae495-40a1-4b9e-ad28-ad35c193c904)
+> - ![image](https://github.com/user-attachments/assets/c1b7578a-770e-4afa-bde2-6244c18ffae5)
 
 ***
 
-#### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
+#### #4 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
+- For example:
+- X(Twitter) (Hosted on AWS (partially) and Google Cloud Platform (GCP) )
+  - Logo: ![image](https://github.com/user-attachments/assets/3af175c1-4210-4019-bf6c-7242ad80fa7e)
+
+  - Details:  X (formerly known as Twitter) is a prominent social media platform where users post short-form content known as "tweets," consisting of text, images, videos, and links. It allows real-time communication, trending discussions, and interaction through retweets, likes, and replies.
 
 ***
 
-#### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
+#### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
+> https://github.com/varuneshbit/22AM0XE-Assignments/edit/7376221CS345/varunesh-d/Day%231/Day%231-Assignments.md
 
 ***
 
-#### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
--![image](https://github.com/user-attachments/assets/67fb8ea8-97e9-4297-8c5d-efb9c5b0d638)
+#### #6 Create a LinkedIn account with personal mail ID
+> ![image](https://github.com/user-attachments/assets/011d9d38-1463-45b1-939f-bb22c9d053cf)
 
-
-> AWS-GOOGLE CLOUD PLATFORM
-
-***
-
-#### #7 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> Add your answer here!
-
-***
-
-#### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
 
 ***
