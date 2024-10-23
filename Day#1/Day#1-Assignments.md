@@ -27,7 +27,9 @@
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
 > Add your answer here!
 > - Completion Badge
-> - Completion Screenshot	
+>![image](https://github.com/user-attachments/assets/fb527d3d-1a25-4f25-a305-ea2c7bfe3110)
+
+
 
 ***
 
@@ -52,12 +54,10 @@
 ***
 
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-- For example:
-- Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
+-![image](https://github.com/user-attachments/assets/67fb8ea8-97e9-4297-8c5d-efb9c5b0d638)
 
-> Add your answer here!
+
+> AWS-GOOGLE CLOUD PLATFORM
 
 ***
 
