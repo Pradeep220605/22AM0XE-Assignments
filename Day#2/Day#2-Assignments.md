@@ -1,4 +1,4 @@
-### Day 2 Assignments
+ ### Day 2 Assignments
 
 > [!NOTE]
 > Pls edit this table while submitting the assignments
@@ -26,34 +26,45 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
-> Add your answer here!![image](https://github.com/user-attachments/assets/3c5f51ca-ed12-4d9e-bfef-18f6d0e8f099)
+> Add your answer here!![image](https://github.com/user-attachments/assets/cc392770-6e57-4624-9802-66c0eff31e1e)
 
 
 ***
 
 #### #2 [K8S] Enable K8S.Install Kubectl.Verify the command “kubectl version”
-> Add your answer here!![image](https://github.com/user-attachments/assets/9a4b9999-0add-4453-bf6e-881f71bd5384)
+> Add your answer here!![image](https://github.com/user-attachments/assets/79ea3957-811d-40e4-bbc3-ea6cba9a2ea5)
 
 
 ***
 
 #### #3 [Impromptu Learning] Complete the learning (as video / pdf) about the following two topics, read about Kubernetes, and then share a screenshot along with a summary of the story
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/b06c7b6e-9bc4-4ed6-b2a7-a2664b62c4bb)
+> ![image](https://github.com/user-attachments/assets/178090cd-186b-4df9-b26a-0bef307ddf3b)
+
+
 
 ***
 
 #### #4 [K8s] Write a manifest for hello-world pod and deploy the same in the namespace of your registration number
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/378aef1b-9b3f-4846-8e13-90e0c9251357)
+
+
 
 ***
 
 #### #5 [K8s] Can you deploy a Hello World application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+>![image](https://github.com/user-attachments/assets/4728c2d4-d0e8-46b1-8067-9c033e3cb88e)
+
+>  ![image](https://github.com/user-attachments/assets/c7ec933b-4e83-4d48-b246-e0a95a216b40)
+
 
 ***
 
 #### #6 [K8s] Can you deploy a Machine Learning application in Kubernetes, create a Deployment, expose it using a Service, and verify the output by accessing it in a browser? Please include screenshots of each step and the final browser check.
-> Add your answer here!
+>![image](https://github.com/user-attachments/assets/9c6ff4f5-2181-49da-b892-10b8fc7304c7)
+>![image](https://github.com/user-attachments/assets/9939e84e-a6e2-431d-b96d-858e5a964f5a)
+
+
 
 ***
 
