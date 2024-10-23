@@ -60,7 +60,7 @@
 ***
 
 #### #5 Create a Github account with personal mail ID and fork the repo https://github.com/SanthoshNC/22AM0XE-Assignments
-> https://github.com/varuneshbit/22AM0XE-Assignments/edit/7376221CS345/varunesh-d/Day%231/Day%231-Assignments.md
+> (https://github.com/Pradeep220605/22AM0XE-Assignments/blob/Pradeep220605-patch-1/Day%231/Day%231-Assignments.md)
 
 ***
 
